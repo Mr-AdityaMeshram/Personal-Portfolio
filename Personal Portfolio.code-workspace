@@ -4,5 +4,8 @@
 		"path": "."
 	}
 ],
-  "settings": {}
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "responsive-portfolio-website-Alexa-main",
+    "liveServer.settings.port": 5501
+  }
 }
